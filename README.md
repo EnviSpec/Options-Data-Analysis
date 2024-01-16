@@ -1,4 +1,4 @@
-# Options-Data-Analysis
+## Options Data Analysis and Visualization
 
 ### Overview
 This project aims to perform data analysis and visualization on a NSE Options Data to gain insights and communicate findings effectively. By leveraging various data analysis techniques and visualization tools, we can uncover patterns, trends, and relationships within the data.
@@ -19,6 +19,7 @@ This project aims to perform data analysis and visualization on a NSE Options Da
 ### Limitations
 - The project assumes that the dataset provided is reliable.
 - The accuracy of the analysis and insights heavily relies on the quality and completeness of the data.
+- Here we have BANKNIFTY Option Contracts are analysed on 15 Jan 2024 having expiry on 31 Jan 2024. 
 
 ### Dependencies
 - Python 3.x
