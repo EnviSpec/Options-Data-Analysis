@@ -15,7 +15,8 @@ This project aims to perform data analysis and visualization on a NSE Options Da
 4. Execute the data analysis and visualization scripts to generate insights and visualizations.
 5. Explore the generated reports or dashboards to interact with the results.
 
-
+### Note
+Resulted Graph from this code were provided in result folder.
 ### Limitations
 - The project assumes that the dataset provided is reliable.
 - The accuracy of the analysis and insights heavily relies on the quality and completeness of the data.
